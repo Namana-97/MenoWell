@@ -216,6 +216,4 @@ pytest
 ---
 
 
----
-
 *MenoWell is a portfolio project. It is not a medical device. Crisis resources are always surfaced within the app. If you are experiencing a mental health emergency, please contact a qualified professional.*
