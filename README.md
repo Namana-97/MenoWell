@@ -215,10 +215,7 @@ pytest
 
 ---
 
-## Resume bullet
-
-*Built MenoWell, a full-stack Android mental health companion for menopausal women using Kotlin, Jetpack Compose, FastAPI, and PostgreSQL. Engineered a longitudinal mood intelligence pipeline using distilbert sentiment inference and Pearson correlation to surface clinically meaningful patterns from 30 days of personal health data. Implemented CBT-informed conversational AI with three-level crisis detection, persistent psychological profiling, and JWT refresh token auth. Deployed via Docker Compose with Alembic migrations, rate limiting, and network-level security hardening for a sensitive health data context.*
 
 ---
 
-*MenoWell is a portfolio project. It is not a medical device. Crisis resources are always surfaced within the app. If you are experiencing a mental health emergency, please contact a qualified professional or call 988.*
+*MenoWell is a portfolio project. It is not a medical device. Crisis resources are always surfaced within the app. If you are experiencing a mental health emergency, please contact a qualified professional.*
