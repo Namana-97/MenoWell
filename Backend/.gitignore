@@ -1,0 +1,15 @@
+# Python
+Backend/venv/
+__pycache__/
+*.pyc
+.env
+
+# Android
+MobileApp/.gradle/
+MobileApp/local.properties
+MobileApp/.idea/
+MobileApp/build/
+MobileApp/app/build/
+
+# OS
+.DS_Store
