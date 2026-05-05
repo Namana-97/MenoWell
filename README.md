@@ -2,7 +2,7 @@
 
 **AI mental health companion for women navigating menopause.**
 
-Mia is not a chatbot. She is a conversational presence with longitudinal memory - she reads 30 days of a woman's emotional and physical data, runs sentiment analysis across her written entries, surfaces patterns she would never notice herself, and responds with the warmth of someone who has been paying attention.
+Mia is not a chatbot. She is a conversational presence with longitudinal memory, she reads 30 days of a woman's emotional and physical data, runs sentiment analysis across her written entries, surfaces patterns she would never notice herself, and responds with the warmth of someone who has been paying attention.
 
 > *"Your hardest moments were Wednesday evenings. Your mind score drops 1.4 points on high hot-flash days. The second half of this month felt lighter than the first."*
 >
